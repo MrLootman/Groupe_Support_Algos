@@ -1,0 +1,17 @@
+{
+  "name": "kata_training",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:1": "npx jest ./tests/kata_1.test.js",
+    "test:2": "npx jest ./tests/kata_2.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
